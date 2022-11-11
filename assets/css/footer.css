@@ -1,0 +1,21 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 10rem;
+    font-size: 20px;
+    color: #343a40;
+    font-weight: 700;
+    border-radius: 20px;
+    background-color: #F0F2F6;
+}
+
+.footer__copyright, .footer__develop {
+    margin: 10px;
+}
+
+.footer__develop a {
+    text-decoration: none;
+    color: #50575e;
+}

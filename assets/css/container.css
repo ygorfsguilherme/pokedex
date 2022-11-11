@@ -1,0 +1,12 @@
+.container {
+    padding: 20px;
+    background-color: #b9babe;
+    background: url("../img/pokebola.svg");
+    background-repeat: no-repeat;
+    background-size: 300px 300px;
+    background-position: right -104px top -30px;
+    border-radius: 20px;
+    width: 100%;
+    max-width: 940px;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.2);
+}

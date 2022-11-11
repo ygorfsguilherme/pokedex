@@ -3,7 +3,11 @@
     justify-content: space-between;
     height: 190px;
     width: 280px;
-    background-color: #14A06F;
+    background-color: #5e5c64;
+    background: url("../img/pokebola-bg-card.svg");
+    background-repeat: no-repeat;
+    background-size: 150px 150px;
+    background-position: right -20px bottom -20px;
     border-radius: 20px;
     padding: 20px;
     box-sizing: border-box;
@@ -29,9 +33,12 @@
 .pokemon__skill {
     display: flex;
     color: #F0F2F6;
-    padding: 6px;
-    background-color: rgba(255, 255, 255, 0.2);
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+    padding: 8px;
+    background-color: rgba(255, 255, 255, 0.3);
     border-radius: 20px;
+    margin-bottom: 5px;
     justify-content: center;
     align-items: center;
     box-sizing: border-box;
@@ -51,7 +58,8 @@
 }
 
 .pokemon__image {
-    height: 110px;
+    height: 100px;
+    width: 100px;
     margin-top: auto;
 }
 

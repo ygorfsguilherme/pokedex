@@ -1,24 +1,13 @@
-import { listaPokemon } from "./listaPokemon.js";
+import { PokemonApi } from './module/request.js';
 
-const pokemonContainer = document.querySelector("[data-pokemon]");
+const more = document.querySelector('button')
 
+var limit = 10;
+var offset = 0;
 
-function Card(pokemon){
+PokemonApi(offset, limit)
 
-    let pokemonCard = `
-    <section class="pokemon__card">
-        <div class="pokemon__info">
-            <h3 class="pokemon__title">${pokemon.nome}</h3>
-            ${pokemon.skill.map(skill => `<span class="pokemon__skill">${skill}</span>`)}
-        </div>
-
-        <div class="pokemon__body">
-            <span class="pokemon__id">${pokemon.id}</span>
-            <img class="pokemon__image" src="${pokemon.img}" alt="">
-        </div>
-    </section>`;
-
-    pokemonContainer.insertAdjacentHTML("beforebegin", pokemonCard);
-}
-
-listaPokemon.forEach(pokemon => Card(pokemon))
+more.addEventListener('click', ()=>{
+    offset = offset + limit;
+    PokemonApi(offset, limit)
+})

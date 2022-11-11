@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 132.29167 132.29167"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="pokebola.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="pokebola.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.52850974"
+     inkscape:cx="359.50141"
+     inkscape:cy="267.73395"
+     inkscape:window-width="1074"
+     inkscape:window-height="752"
+     inkscape:window-x="119"
+     inkscape:window-y="54"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1410"
+       transform="translate(-41.528473,-63.27314)"
+       style="fill:#e6e6e6;fill-opacity:0.5">
+      <path
+         id="path234"
+         style="fill:#e6e6e6;fill-opacity:0.5;stroke:none;stroke-width:1.32292"
+         d="M 107.66578,69.815377 A 59.603588,59.603588 0 0 0 48.476628,122.60957 h 31.627526 a 28.419275,28.419275 0 0 1 27.561626,-21.60953 28.419275,28.419275 0 0 1 27.56214,21.60953 h 31.64923 A 59.603588,59.603588 0 0 0 107.66578,69.815377 Z M 48.164502,132.54023 a 59.603588,59.603588 0 0 0 59.501278,56.48234 59.603588,59.603588 0 0 0 59.51833,-56.48234 h -31.27406 a 28.419275,28.419275 0 0 1 -28.24427,25.2982 28.419275,28.419275 0 0 1 -28.227735,-25.2982 z" />
+      <circle
+         style="fill:#e6e6e6;fill-opacity:0.5;stroke:none;stroke-width:1.51674"
+         id="path1406"
+         cx="107.67431"
+         cy="129.41898"
+         r="18.684595" />
+    </g>
+  </g>
+</svg>
