@@ -1,5 +1,6 @@
 .container {
     padding: 20px;
+    position: relative;
     background-color: #b9babe;
     background: url("../img/pokebola.svg");
     background-repeat: no-repeat;

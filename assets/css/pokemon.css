@@ -2,7 +2,9 @@
     display: flex;
     justify-content: space-between;
     height: 190px;
-    width: 280px;
+    width: 100%;
+    min-width: 290px;
+    max-width: 320px;
     background-color: #5e5c64;
     background: url("../img/pokebola-bg-card.svg");
     background-repeat: no-repeat;
@@ -11,7 +13,6 @@
     border-radius: 20px;
     padding: 20px;
     box-sizing: border-box;
-    margin: 10px;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
     transition: transform 0.2s ease-in-out;
 }
